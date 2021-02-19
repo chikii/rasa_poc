@@ -2,3 +2,5 @@ version: "2.0"
 responses:
   utter_faq/example:
   - text: This is a example.
+  utter_faq/onemore:
+  - text: This is a example of one more.
