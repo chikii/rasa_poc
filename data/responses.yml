@@ -1,0 +1,4 @@
+version: "2.0"
+responses:
+  utter_faq/example:
+  - text: This is a example.
