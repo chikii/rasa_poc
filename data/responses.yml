@@ -4,3 +4,5 @@ responses:
   - text: This is a example.
   utter_faq/onemore:
   - text: This is a example of one more.
+  utter_faq/example2:
+  - text: This is a example2.
